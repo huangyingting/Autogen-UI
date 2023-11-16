@@ -1,0 +1,3 @@
+chainlit==0.7.601rc0
+pyautogen==0.2.0b5
+docker
